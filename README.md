@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" alt="Hamza Jabari" width="200" style="border-radius: 50%;"/>
+  <img src="image.png" alt="Hamza Jabari" width="200" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Hamza Hazem Jabari</h1>
