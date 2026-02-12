@@ -9,7 +9,7 @@ This folder contains my academic and personal projects in data science, machine 
 ## Project Categories
 
 ### 🎓 Final Capstone - IntelliWheels
-Autonomous navigation system for wheelchair users with computer vision capabilities.
+AI Powered Automotive Marketplace.
 
 ### 📊 Applied Analytical Modelling
 Advanced ML projects using financial data analysis (Gold Futures dataset).
