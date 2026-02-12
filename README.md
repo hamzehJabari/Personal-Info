@@ -4,8 +4,6 @@
 
 Welcome to my portfolio repository! This collection showcases my academic projects, professional certifications, and work experience in data science, machine learning, and artificial intelligence.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
 
 ---
 
