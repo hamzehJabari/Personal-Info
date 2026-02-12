@@ -8,15 +8,16 @@ This folder contains documentation of my professional work experience and appren
 
 ## AEPCO Apprenticeship
 
-**Organization:** AEPCO (Arab Engineering & Project Company)
+**Organization:** AEPCO (Alternative Energy Projects Company)
 
 Professional apprenticeship journey showcasing hands-on engineering experience and project involvement.
 
 ### Key Experiences:
-- Real-world engineering project exposure
-- Professional development activities
-- Technical skills application
-- Team collaboration
+- Project Performance
+- Data analysis
+- Monetoring
+- Website, Social Media managing
+- Automated Systems
 
 ---
 
