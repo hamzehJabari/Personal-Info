@@ -1,6 +1,6 @@
 # Certifications
 
-This folder contains my professional certifications demonstrating proficiency in various technical skills.
+This folder contains my professional certifications demonstrating proficiency in various technical and linguistic skills.
 
 > **Note:** These certificates are provided for verification purposes only. Please do not reproduce or distribute.
 
@@ -17,6 +17,11 @@ Comprehensive certification covering:
 - Data visualization
 - SQL for data analysis
 - R programming basics
+
+### IELTS Test Report
+**File:** `IELTS_Test_Report.pdf`
+
+International English Language Testing System (IELTS) — standardized English proficiency assessment covering Listening, Reading, Writing, and Speaking.
 
 ### Mentorship Program Certificate
 **File:** `Hamza Mentee Certificate.pdf`

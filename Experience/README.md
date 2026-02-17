@@ -12,12 +12,12 @@ This folder contains documentation of my professional work experience and appren
 
 Professional apprenticeship journey showcasing hands-on engineering experience and project involvement.
 
-### Key Experiences:
-- Project Performance
-- Data analysis
-- Monetoring
-- Website, Social Media managing
-- Automated Systems
+### Key Responsibilities:
+- Project performance tracking and reporting
+- Data analysis and insights generation
+- Monitoring of systems and processes
+- Website and social media management
+- Working with automated systems
 
 ---
 

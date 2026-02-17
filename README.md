@@ -1,8 +1,8 @@
 # Hamza Jabari
 
-**Data Scientist | Machine Learning Engineer | AI Enthusiast**
+**Data Scientist | Machine Learning Engineer | Full-Stack Developer | AI Enthusiast**
 
-Welcome to my portfolio repository! This collection showcases my academic projects, professional certifications, and work experience in data science, machine learning, and artificial intelligence.
+Welcome to my portfolio repository! This collection showcases my academic projects, professional certifications, and work experience in data science, machine learning, full-stack development, and artificial intelligence.
 
 
 ---
@@ -22,12 +22,17 @@ Welcome to my portfolio repository! This collection showcases my academic projec
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python, SQL |
+| **Languages** | Python, JavaScript, TypeScript, SQL, PHP |
+| **Frontend** | React, Next.js, Tailwind CSS, HTML/CSS |
+| **Backend** | Flask, Django, FastAPI, Node.js |
 | **ML/AI** | Scikit-learn, TensorFlow, Keras, PyTorch, YOLO, XGBoost, SHAP, LIME |
+| **Generative AI** | Google Gemini, LLMs, Prompt Engineering, Vision AI |
 | **Big Data** | PySpark, Pandas, NumPy |
-| **Deep Learning** | GANs, CNNs, Computer Vision |
+| **Deep Learning** | GANs, CNNs, Computer Vision, NLP |
+| **Databases** | PostgreSQL, SQLite, SQLAlchemy |
 | **Visualization** | Matplotlib, Seaborn, Plotly |
-| **Tools** | Jupyter, Git, VS Code, Docker |
+| **Cloud & DevOps** | Vercel, Render, Cloudinary, Docker, Git |
+| **Tools** | Jupyter, VS Code, GitHub |
 
 ---
 
@@ -35,19 +40,22 @@ Welcome to my portfolio repository! This collection showcases my academic projec
 
 ### 🎓 Capstone Project - IntelliWheels
 
-**Autonomous Navigation System for Wheelchair Users**
+**AI-Powered Automotive Marketplace**
 
-A comprehensive capstone project developing an intelligent wheelchair navigation system with computer vision capabilities.
+A full-stack AI-powered automotive marketplace for the Jordanian and GCC market. IntelliWheels leverages Generative AI (Google Gemini) to provide conversational car discovery, vision-based vehicle identification, intelligent price estimation, and bilingual (Arabic/English) semantic search.
 
 | Document | Description |
 |----------|-------------|
 | [Project Banner](Projects/Final%20Capstone/IntelliWheels-Banner.pdf) | Visual overview of the IntelliWheels project |
 
 **Key Features:**
-- Computer vision-based obstacle detection
-- Autonomous navigation algorithms
-- Real-time path planning
-- User safety prioritization
+- AI Chatbot powered by Google Gemini 2.5 Flash (bilingual)
+- Vision AI — upload a car photo to identify make, model, year, and price
+- Semantic search with natural language queries
+- Rule-based price estimation expert system
+- Dealer network with admin-verified onboarding
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Flask, PostgreSQL, Google Gemini, Cloudinary
 
 ---
 
@@ -75,13 +83,13 @@ Advanced machine learning projects focused on financial data analysis using Gold
 
 ### 🧬 Bioinformatics
 
-Research and analysis projects in computational biology and bioinformatics.
+Research and analysis projects applying computational and data science methods to biological datasets, including statistical modeling and ML applications in genomics.
 
 ---
 
 ### 🚗 Computing Research
 
-Research project on intelligent recommendation systems.
+Research project on building an intelligent car recommendation system using NLP, collaborative filtering, content-based filtering, and hybrid approaches. This research contributed to the foundational work behind the IntelliWheels capstone project.
 
 ---
 
@@ -90,6 +98,7 @@ Research project on intelligent recommendation systems.
 | Project | Description | Status |
 |---------|-------------|--------|
 | **YOLO Object Detection Comparison** | Comparative analysis of YOLOv5 vs YOLOv8/v11 for object detection tasks | *In Progress* |
+| **Customer Churn Prediction** | ML classification project predicting streaming service churn using 5,000+ customer records | *In Progress* |
 
 ---
 
@@ -100,6 +109,7 @@ Research project on intelligent recommendation systems.
 | Certificate | Issuer | Description |
 |-------------|--------|-------------|
 | [Google Data Analytics Certificate](Certifications/Google_Data_Analytics_Certificate.pdf) | Google | Professional certification in data analytics |
+| [IELTS Test Report](Certifications/IELTS_Test_Report.pdf) | British Council / IDP | International English Language Testing System |
 | [Mentorship Certificate](Certifications/Hamza%20Mentee%20Certificate.pdf) | - | Professional mentorship program completion |
 | [Minna Learn Certificate](Certifications/Minna_Learn_Certificate.png) | Minna Learn | Online learning program completion |
 | [Professional Certificate](Certifications/certificate.pdf) | - | Additional professional certification |
@@ -134,6 +144,7 @@ Research project on intelligent recommendation systems.
 │   │   └── Introduction to Python.pdf
 │   ├── Google_Data_Analytics_Certificate.pdf
 │   ├── Hamza Mentee Certificate.pdf
+│   ├── IELTS_Test_Report.pdf
 │   ├── Minna_Learn_Certificate.png
 │   └── certificate.pdf
 ├── Experience/
@@ -173,8 +184,8 @@ Research project on intelligent recommendation systems.
 
 ## 📫 Contact
 
-- **LinkedIn:** [Hamza Jabari](https://linkedin.com/in/YOUR-LINKEDIN)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Hamza Jabari](https://linkedin.com/in/hamza-jabari)
+- **Email:** hamzehhazem04@gmail.com
 - **GitHub:** [@hamzehJabari](https://github.com/hamzehJabari)
 
 ---

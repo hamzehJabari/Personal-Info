@@ -1,21 +1,49 @@
 # IntelliWheels - Capstone Project
 
-## Autonomous Navigation System for Wheelchair Users
+## AI-Powered Automotive Marketplace
 
-IntelliWheels is a comprehensive capstone project focused on developing an intelligent wheelchair navigation system with advanced computer vision capabilities.
+IntelliWheels is a full-stack AI-powered automotive marketplace designed for the Jordanian and GCC market. It transforms traditional car buying and selling by leveraging Generative AI to provide a conversational, contextual, and personalized car discovery experience.
 
-> **Note:** This project documentation is provided for portfolio demonstration only.
+> **Note:** This project documentation is provided for portfolio demonstration only. Source code is proprietary and not included in this repository.
 
 ---
 
 ## Project Overview
 
-IntelliWheels aims to enhance mobility and independence for wheelchair users through:
+IntelliWheels addresses key challenges in the used car market:
 
-- **Computer Vision-Based Obstacle Detection** - Real-time identification of obstacles in the user's path
-- **Autonomous Navigation Algorithms** - Smart pathfinding that adapts to dynamic environments
-- **Real-Time Path Planning** - Efficient route calculation considering accessibility requirements
-- **User Safety Prioritization** - Multi-layered safety systems to protect users
+- **Information Overload** — Buyers struggle to navigate thousands of listings without expert guidance
+- **Lack of Price Transparency** — No reliable way to assess fair market value
+- **Language Barriers** — Full bilingual support (Arabic + English) with RTL layout
+- **Cold-Start Problem** — Traditional recommendation systems fail without user history; IntelliWheels uses conversational AI instead
+
+---
+
+## Core Features
+
+| Feature | Description |
+|---------|-------------|
+| **AI Chatbot** | Conversational car assistant powered by Google Gemini 2.5 Flash (bilingual) |
+| **Vision AI** | Upload a car photo → AI identifies make, model, year, and estimated price |
+| **Price Estimation** | Rule-based expert system for fair market value assessment |
+| **Semantic Search** | Natural language queries (e.g., "family SUV under 20,000 JOD with good mileage") |
+| **Car Listings** | Users list and browse cars with images, videos, and specs |
+| **Dealer Network** | Admin-verified dealers with dedicated Dealer Hub for inventory management |
+| **Messaging** | Direct buyer-seller communication |
+| **Reviews & Favorites** | Car ratings and personal wishlist system |
+
+---
+
+## Technology Stack
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | Next.js 16, React 19, TypeScript 5, Tailwind CSS 3.4, Leaflet (maps) |
+| **Backend** | Python, Flask 3.0, Gunicorn, SQLAlchemy |
+| **AI/ML** | Google Gemini 2.5 Flash (Chatbot + Vision), Rule-Based Expert System (Pricing), Keyword Scoring (Search) |
+| **Database** | SQLite (dev) / PostgreSQL (prod) |
+| **Cloud** | Vercel (frontend), Render (backend), Cloudinary (media CDN) |
+| **Auth** | Google OAuth, session-based authentication with PBKDF2 hashing |
 
 ---
 
@@ -25,25 +53,22 @@ IntelliWheels aims to enhance mobility and independence for wheelchair users thr
 |----------|-------------|
 | `IntelliWheels-Banner.pdf` | Visual project overview and key highlights |
 
----
-
-## Technologies Used
-
-- Computer Vision (OpenCV, YOLO)
-- Machine Learning / Deep Learning
-- Sensor Integration
-- Real-time Processing
-- Path Planning Algorithms
+> Additional project documents (report, test plan, presentation) are available upon request.
 
 ---
 
-## Key Features
+## Team
 
-1. **Obstacle Detection** - Uses advanced CV algorithms to detect and classify obstacles
-2. **Path Planning** - A* and custom algorithms for optimal route finding
-3. **Safety Systems** - Emergency stop and collision avoidance
-4. **User Interface** - Intuitive controls for user interaction
+| Name | Role |
+|------|------|
+| **Hamza Ja'bari** | Co-Founder / Developer |
+| **Amro Freihat** | Co-Founder / Developer |
+| **Muhannad Al Melhim** | Co-Founder / Developer |
+
+**Supervised by:** Dr. Aya Karajeh  
+**Degree:** B.Sc., Fall 2025–2026  
+**Domain:** [intelliwheels.co](https://intelliwheels.co)
 
 ---
 
-*This capstone project was completed as part of my academic program.*
+*This capstone project was completed as part of my B.Sc. program.*

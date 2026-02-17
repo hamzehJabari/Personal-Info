@@ -6,9 +6,31 @@ This folder contains general machine learning experiments and projects.
 
 ---
 
-## Overview
+## Customer Churn Prediction — Streaming Service
 
-Collection of machine learning projects covering various algorithms and techniques.
+A machine learning project analyzing customer churn in a streaming service platform. The dataset includes 5,000+ customers with features such as age, subscription length, region, payment method, support tickets, satisfaction scores, monthly spend, and churn status.
+
+### Objectives
+- Predict whether a customer will churn based on behavioral and demographic features
+- Identify key factors driving customer churn
+- Build and evaluate classification models
+
+### Key Features Analyzed
+| Feature | Description |
+|---------|-------------|
+| Subscription Length | Duration of customer subscription |
+| Satisfaction Score | Customer satisfaction rating |
+| Support Tickets | Number of support tickets raised |
+| Monthly Spend | Customer monthly expenditure |
+| Discount Offered | Discount percentage applied |
+| Last Activity | Days since last platform activity |
+
+### Technologies
+- Python, Scikit-learn, Pandas, NumPy
+- Classification algorithms (Logistic Regression, Random Forest, XGBoost, etc.)
+- Data visualization (Matplotlib, Seaborn)
+
+> **Note:** Dataset and detailed analysis documents are not included in this repository for privacy reasons.
 
 ---
 
