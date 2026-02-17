@@ -4,6 +4,7 @@
 
 Welcome to my portfolio repository! This collection showcases my academic projects, professional certifications, and work experience in data science, machine learning, full-stack development, and artificial intelligence.
 
+**🎓 GPA:** 3.5/4.0
 
 ---
 
@@ -127,9 +128,9 @@ Research project on building an intelligent car recommendation system using NLP,
 
 ## 💼 Professional Experience
 
-| Experience | Organization | Description |
-|------------|--------------|-------------|
-| [AEPCO Apprenticeship](Experience/) | AEPCO | Professional apprenticeship journey in engineering |
+| Experience | Organization | Duration | Description |
+|------------|--------------|----------|-------------|
+| [AEPCO Apprenticeship](Experience/) | AEPCO | 8 months | Professional apprenticeship in alternative energy engineering |
 
 ---
 

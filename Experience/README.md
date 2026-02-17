@@ -8,7 +8,8 @@ This folder contains documentation of my professional work experience and appren
 
 ## AEPCO Apprenticeship
 
-**Organization:** AEPCO (Alternative Energy Projects Company)
+**Organization:** AEPCO (Alternative Energy Projects Company)  
+**Duration:** 8 months
 
 Professional apprenticeship journey showcasing hands-on engineering experience and project involvement.
 
