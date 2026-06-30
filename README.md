@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **hamzehhazem04@gmail.com**
 
-- ⚡ Fun fact **I built an AI powered Automotive Marketplace (IntelliWheels) for my capstone!**
+- ⚡ Fun fact **I am analyzing my Toyota Yaris as an F1 car!**
 
 - 📂 **Check out the [Projects Branch](https://github.com/hamzehJabari/Personal-Info/tree/projects) for my full portfolio with certifications and project documentation**
 
